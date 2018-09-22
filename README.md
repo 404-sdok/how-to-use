@@ -5,4 +5,4 @@ How to Use
 
 ## 하위 문서 목록
 ### 구글 행아웃
- * [초대 수락](./hangouts-invite)
+ * [초대 수락](./hangouts-invite.md)
